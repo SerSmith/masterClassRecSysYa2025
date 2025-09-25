@@ -6,12 +6,13 @@
    pyenv install 3.12.7
 2. Создайте виртуальное окружение 
    pyenv virtualenv 3.12.7 yaMasterClass2026
-3. Клонируйте репозиторий git clone git@github.com:SerSmith/masterClassRecSysYa2025.git
-4. Активируйте виртуальное окружение
+3. Клонируйте репозиторий git clone git clone https://github.com/SerSmith/masterClassRecSysYa2025.git
+4. cd masterClassRecSysYa2025
+5. Активируйте виртуальное окружение
    pyenv activate yaMasterClass2026
-5. Установите requirements
+6. Установите requirements
    pip install -r requirements.txt
-6. Откройте [masterclass.ipynb](masterclass.ipynb)
+7. Откройте [masterclass.ipynb](masterclass.ipynb)
 
 ## Постановка задачи
 
