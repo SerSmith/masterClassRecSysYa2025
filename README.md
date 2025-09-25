@@ -57,11 +57,11 @@
 - [masterclass.ipynb](masterclass.ipynb) - основной ноутбук
 - [presentation.pdf](presentation.pdf) - презентация к рассказу
 - data
-- [interactions.csv](data/interactions.csv) - интеракции
-- [items.csv](data/items.csv) - данные объектов
-- [users.csv](data/users.csv) - данные пользователей
-- [true_relevance.csv](data/true_relevance.csv) - истинная релевантность, можно использовать для сравнения решения с истиной!
+  - [interactions.csv](data/interactions.csv) - интеракции
+  - [items.csv](data/items.csv) - данные объектов
+  - [users.csv](data/users.csv) - данные пользователей
+  - [true_relevance.csv](data/true_relevance.csv) - истинная релевантность, можно использовать для сравнения решения с истиной!
 
 - answer (тут спойлеры!)
-- [create_data.ipynb](answer/create_data.ipynb) - генерация датсетов
-- [masterclass_corrected.ipynb](answer/masterclass_corrected.ipynb) - скорректиированный файл мастеркласса
+  - [create_data.ipynb](answer/create_data.ipynb) - генерация датсетов
+  - [masterclass_corrected.ipynb](answer/masterclass_corrected.ipynb) - скорректиированный файл мастеркласса
