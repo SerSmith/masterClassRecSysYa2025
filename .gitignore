@@ -210,5 +210,6 @@ __marimo__/
 answer/lightning_logs/*
 /catboost_info/*
 answer/catboost_info/*
+data/interactions.csv
 
 *.DS_Store
