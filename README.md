@@ -55,7 +55,7 @@
 Для подготовки рекомендательной модели:
 
 - [masterclass.ipynb](masterclass.ipynb) - основной ноутбук
-- [presentation.pptx](presentation.pptx) - презентация к рассказу
+- [presentation.pdf](presentation.pdf) - презентация к рассказу
 - data
 - [interactions.csv](data/interactions.csv) - интеракции
 - [items.csv](data/items.csv) - данные объектов
