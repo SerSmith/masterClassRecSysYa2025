@@ -63,5 +63,6 @@
   - [true_relevance.csv](data/true_relevance.csv) - истинная релевантность, можно использовать для сравнения решения с истиной!
 
 - answer (тут спойлеры!)
+  - [discovery.ipynb](answer/discovery.ipynb - сниппеты с изменениями
   - [create_data.ipynb](answer/create_data.ipynb) - генерация датсетов
   - [masterclass_corrected.ipynb](answer/masterclass_corrected.ipynb) - скорректиированный файл мастеркласса
